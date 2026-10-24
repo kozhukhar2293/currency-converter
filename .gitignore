@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+env/
+
+# Кэш курсов валют
+rates_cache.json
+
+# Среда разработки (VS Code)
+.vscode/
